@@ -23,7 +23,8 @@ The project aims to:
 
 Contribution
 
-We welcome contributions from BitAgent team members! Feel free to submit a pull request or reach out to collaborate. Contributors should follow the guidelines outlined in the CONTRIBUTING.md (to be created).
+We welcome contributions from BitAgent team members! Feel free to reach out to collaborate.
+
 Sources
 
 This project uses information from:
